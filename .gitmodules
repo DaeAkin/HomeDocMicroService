@@ -1,0 +1,3 @@
+[submodule "HomeDoc-Core"]
+	path = HomeDoc-Core
+	url = https://github.com/DaeAkin/HomeDoc-Core
